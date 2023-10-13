@@ -1,4 +1,18 @@
-### Hi there 👋
+### Meu nome é Gabriel 👋
+
+Tenho 29 anos
+
+Sou da cidade de carapicuíba - SP
+
+Desenvolvedor Front-End
+
+Estou cursando o curso de desenvolvedor Front-End na escola Vai na Web,
+fullstack na escola B7web e Udemy.
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=gabrielkorver&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 <!--
 **GabrielKorver/GabrielKorver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
