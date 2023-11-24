@@ -6,8 +6,7 @@ Sou da cidade de carapicuíba - SP
 
 Desenvolvedor Front-End
 
-Estou cursando o curso de desenvolvedor Front-End na escola Vai na Web, Udemy e o Fullstack na escola B7web.
-
+Estou cursando o curso de desenvolvedor Front-End na escola Alura
 
 [![card](https://github-readme-stats.vercel.app/api?username=gabrielkorver&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
