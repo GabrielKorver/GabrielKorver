@@ -1,12 +1,6 @@
 ### Meu nome é Gabriel 👋
 
-Tenho 30 anos
-
-Sou da cidade de carapicuíba - SP
-
-Desenvolvedor Front-End
-
-Estou cursando o curso de desenvolvedor Front-End na escola Jornada do Dev.
+"Sou Gabriel, tenho 30 anos e sou da cidade de Carapicuíba, SP. Atuo como desenvolvedor Front-End, com foco na criação de interfaces eficientes e responsivas, utilizando tecnologias como HTML, CSS, JavaScript e frameworks como React e Bootstrap. Atualmente, estou cursando o curso de desenvolvedor Front-End na escola Jornada do Dev, buscando aprimorar minhas habilidades e me especializar cada vez mais no desenvolvimento de soluções modernas e escaláveis para a web."
 
 [![card](https://github-readme-stats.vercel.app/api?username=gabrielkorver&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
