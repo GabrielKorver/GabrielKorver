@@ -2,12 +2,7 @@
 
 "Sou Gabriel, tenho 30 anos e sou da cidade de Carapicuíba, SP. Atuo como desenvolvedor Front-End, com foco na criação de interfaces eficientes e responsivas, utilizando tecnologias como HTML, CSS, JavaScript e frameworks como React e Bootstrap. Estou cursando o curso de desenvolvedor Front-End na escola Jornada do Dev e também estudando back-end com Node.js, MongoDB e APIs, além de desenvolvimento com React Native. Meu objetivo é me tornar um desenvolvedor full stack, criando soluções modernas e escaláveis tanto no front-end quanto no back-end."
 
-### Tecnologias e Ferramentas
-
-- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap
-- **Back-End**: Node.js, MongoDB, APIs
-- **Desenvolvimento Mobile**: React Native
-- **Versionamento**: Git, GitHub
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
